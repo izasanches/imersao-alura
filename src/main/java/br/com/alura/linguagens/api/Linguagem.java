@@ -37,4 +37,16 @@ public class Linguagem {
     public int getRanking() {
         return ranking;
     }
+
+    public void setImage(String image) {
+        this.image = image;
+    }
+
+    public void setTitle(String title) {
+        this.title = title;
+    }
+
+    public void setRanking(int ranking) {
+        this.ranking = ranking;
+    }
 }
